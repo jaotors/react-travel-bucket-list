@@ -1,0 +1,14 @@
+.app-container {
+  padding: 10px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.country-list ul {
+  padding: 0;
+}
+
+.country-list ul li {
+  display: flex;
+  justify-content: space-between;
+}
